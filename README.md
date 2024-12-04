@@ -10,3 +10,6 @@ For more information: [Advent of Code 2024](https://adventofcode.com/2024/about)
 
 ## List of Puzzles
 - [Day 1: Historian_Hysteria](day01/)
+- [Day 2: Red-Nosed Reports](day02/)
+- [Day 3: Mull It Over](day03/)
+- [Day 4: Ceres Search](day04/)
